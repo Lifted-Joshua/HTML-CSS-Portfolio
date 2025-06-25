@@ -140,6 +140,12 @@
     font-weight: 900;
 }
 
+.project-description {
+    color: #EEEEEE;
+    font-size: small;
+    font-weight: 300px;
+}
+
 .projects-button {
     background-color: #C73659;
     
@@ -237,3 +243,5 @@
     font-size: medium;
     font-weight: 900;
 }
+
+
